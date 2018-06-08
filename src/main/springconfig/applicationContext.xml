@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="J1" class="Pinjiemethod">
+        <!-- collaborators and configuration for this bean go here -->
+    </bean>
+
+    <bean id="readdocx" class="readDocxall">
+        <!-- collaborators and configuration for this bean go here -->
+    </bean>
+
+    <bean id="readdoc" class="readDoc">
+        <!-- collaborators and configuration for this bean go here -->
+    </bean>
+<bean id="readpdf" class="readPdf">
+
+</bean>
+    <bean id="readtxt" class="readTxt">
+
+    </bean>
+    <!-- more bean definitions go here -->
+
+</beans>
