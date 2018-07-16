@@ -6,4 +6,5 @@ public  static int getPhoneFaile = 0;
 public static final String mubiaoJXSB  = "E:\\简历处理\\处理失败\\解析失败";
 public static final String mubiaoPhone = "E:\\简历处理\\处理失败\\手机号读取失败";
 public static final String mubiaoEmail = "E:\\简历处理\\处理失败\\emai读取失败";
+    public static final String mubiaoChenGong = "E:\\简历处理\\处理成功\\2018-7-13";
 }

@@ -18,7 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/springconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/core" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/Dao" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

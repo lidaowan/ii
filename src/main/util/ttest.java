@@ -20,7 +20,10 @@ import java.util.regex.Pattern;
 public class ttest {
 
     public static void main(String[] args) {
-
+String s = "java工程师-期望薪资10k-15k-工作8年【Boss直聘】大i小67412日i期2018-05-15随机数2.0";
+int t = s.indexOf("-应聘");
+s = s.substring(t+1,s.length());
+System.out.println(s);
 
     }
 
